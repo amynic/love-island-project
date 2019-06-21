@@ -1,0 +1,7 @@
+{
+        "name": "Love Island",
+        "dataColors": ["#FF2F90", "#EB063F", "#F8E443", "#F94222", "#00A5F1", "#FD7C28"],
+        "background":"#9BD0EF",
+        "foreground": "#FFFFFF",
+        "tableAccent": "#00A5F1"
+    }
