@@ -1,6 +1,4 @@
-# love-island-project
-
-## Are you Love Island's "Type on Paper": The Technical Story
+# Are you Love Island's "Type on Paper": The Technical Story
 
 << Initial Non Technical Blog post will go here>>
 
