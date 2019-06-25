@@ -1,5 +1,7 @@
 # Are you Love Island's "Type on Paper": The Technical Story
 
+We have manually gathered data for the popular UK TV show Love Island and have been providing analytical insights in both the historical and current dataset. 
+
 Check out the analytical findings expressed within the articles below:
 * [Are you Love Island's "Type on Paper"?](https://medium.com/@amynic/are-you-love-islands-type-on-paper-2549d94a110f)
 * ['Grafting' Love Island Data: Analysing the stories behind the TV Show](https://medium.com/@amynic/grafting-love-island-data-analysing-the-stories-behind-the-tv-show-ae6e7ae337e1)
@@ -9,15 +11,8 @@ All data and code shared has been manually gathered from public resources listed
 
 This dataset is my own interpretation of the TV show Love Island and how the show has played out over time. 
 
-## Get Grafting!
-
 ### How to Contribute
+We welcome feedback and ideas into the repository.
 
-
-<< Initial Non Technical Blog post will go here>>
-
-Will link to ReadMe for Technical Blog post as well
-
-## Get Grafting!
-
-### How to Contribute
+* Feedback: please submit an issue to this repository and we will try and incorporate. Also feel free to provide an idea as feedback
+* Contribution: Please submit a pull request and we will review and work together to incorporate if it fits the projects scope
