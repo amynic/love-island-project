@@ -14,8 +14,8 @@ This dataset is my own interpretation of the TV show Love Island and how the sho
 ## How to Contribute
 We welcome feedback and ideas into the repository.
 
-* Feedback: please submit an issue to this repository and we will try and incorporate. Also feel free to provide an idea as feedback
-* Contribution: Please submit a pull request and we will review and work together to incorporate if it fits the projects scope
+* **Feedback:** please submit an issue to this repository and we will try and incorporate. Also feel free to provide an idea as feedback
+* **Contribution:** Please submit a pull request and we will review and work together to incorporate if it fits the projects scope
 
 ## What is in this repository
 
