@@ -11,13 +11,13 @@ All data and code shared has been manually gathered from public resources listed
 
 This dataset is my own interpretation of the TV show Love Island and how the show has played out over time. 
 
-### How to Contribute
+## How to Contribute
 We welcome feedback and ideas into the repository.
 
 * Feedback: please submit an issue to this repository and we will try and incorporate. Also feel free to provide an idea as feedback
 * Contribution: Please submit a pull request and we will review and work together to incorporate if it fits the projects scope
 
-### What is in this repository
+## What is in this repository
 
 * Code
     * [Python Notebook with output cells containing initial data analysis](code\love-island-historical-analysis.ipynb)
