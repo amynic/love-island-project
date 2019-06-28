@@ -6,3 +6,4 @@
 * [Sunburn: the Biggest Bust-Ups Love Island 2018](https://www.youtube.com/watch?v=j0MqqX4vHds)
 * [Love Island | The Most Explosive Arguments of All Time | ITV2](https://www.youtube.com/watch?v=rihbGX6EfWI)
 * Love Island 2019 cast REVEALED - meet the contestants[])(https://www.heart.co.uk/showbiz/tv-movies/love-island-2019-contestants-revealed/)
+* [Casa Amor additions to the villa details](https://www.cosmopolitan.com/uk/entertainment/g28208028/casa-amor-cast-love-island/?utm_campaign=likeshopme&utm_medium=instagram&utm_source=dash%20hudson&utm_content=www.instagram.com/p/BzOnPVdFupi/&slide=12)
